@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "dev.tildejustin.generation_brightness.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "LakeFeatureMixin",
+    "MushroomPlantBlockMixin",
+    "SkyLightSectionStorageMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

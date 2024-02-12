@@ -1,21 +1,21 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "generation-brightness-debug",
   "version": "${version}",
-  "name": "",
-  "description": "",
+  "name": "Generation Brightness Debug",
+  "description": "print out light levels for LakeFeatures and MushroomPlantBlocks for starlight testing",
   "authors": [
     "tildejustin"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/modid",
-    "sources": "https://github.com/tildejustin/modid",
-    "issues": "https://github.com/tildejustin/modid/issues"
+    "homepage": "https://modrinth.com/mod/generation-brightness-debug",
+    "sources": "https://github.com/tildejustin/generation-brightness-debug",
+    "issues": "https://github.com/tildejustin/generation-brightness-debug/issues"
   },
   "license": "MIT",
   "environment": "*",
   "mixins": [
-    "modid.mixins.json"
+    "generation-brightness-debug.mixins.json"
   ],
   "depends": {
     "minecraft": "*",
